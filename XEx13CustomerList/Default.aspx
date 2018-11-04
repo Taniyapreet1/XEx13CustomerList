@@ -15,6 +15,7 @@
     <header class="jumbotron"><%-- image set in site.css --%>
        <%--  <img src="Images/banner.jpg" />--%>
     </header>
+    <h2 style="color:Red">GitHub Demo by TaniyapreetKaur</h2>
     <h4><b>Name:</b> Taniyapreet kaur</h4>
     <h4><b>Id:</b> C0718971</h4>
     <main>
